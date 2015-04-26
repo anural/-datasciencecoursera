@@ -1,5 +1,5 @@
 ##Code Book
-Variable						Description
+Variable						Description 
 "subject"                   	Subjects number who iniated the activities
 "activity"                  	The type of the activity
 "tBodyAcc-mean-X"          		Mean and standart valeus of variosu measurements below..
